@@ -2,6 +2,6 @@
     "version": "1.0.1",
     "title": "新版本更新1",
     "content": "更新内容",
-    "forceUpdate": true,
+    "forceUpdate": false,
     "downloadUrl": "https://fanyi.baidu.com/?aldtype=16047#auto/zh"
 }
