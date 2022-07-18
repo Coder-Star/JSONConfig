@@ -1,6 +1,7 @@
 {
-    "version": 1,
+    "version": "1.0.0",
     "title": "",
     "content": "",
-    "forceUpdate": true
+    "forceUpdate": false,
+    "downloadUrl": ""
 }
