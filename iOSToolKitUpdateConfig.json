@@ -1,7 +1,7 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "升级说明",
-    "content": "1、支持OC（YYModel、MJExtension）；\n2、修复已知Bug；",
+    "content": "修复自动转驼峰键值映射问题",
     "forceUpdate": false,
-    "downloadUrl": "https://github.com/Coder-Star/JSONConfig/blob/main/iOSToolKit.dmg?raw=true"
+    "downloadUrl": "https://github.com/Coder-Star/JSONConfig/blob/main/iOSToolKit.app.zip?raw=true"
 }
